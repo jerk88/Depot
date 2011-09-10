@@ -7,6 +7,7 @@ gem 'rails', '3.0.9'
 
 gem 'sqlite3'
 gem 'will_paginate', '>= 3.0.pre'
+gem 'capistrano'
 
 # Use unicorn as the web server
 # gem 'unicorn'
